@@ -1,0 +1,10 @@
+What type of View controller allows us to select images from the photo library?
+UIImageview
+Try and explain what happens when we write an extension.
+An extension allows the code to extend outside of the View controller and allows the user to delegate tasks
+What are the different sourceTypes?
+Swift, Cocoa Touch Class, UI Test Case Class, Unit Test Case Class, Objective-C File, Header File, IIG File, C File, C++File, Metal File
+What is a delegate?
+A delegate allows the user to give tasks between different View Controllers
+What is a Protocol?
+A protocol defines a blueprint of methods, properties, and other requirements that suit a particular task or piece of functionality.
